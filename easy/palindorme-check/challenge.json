@@ -1,0 +1,12 @@
+{
+  "id": "palindrome-check",
+  "title": "Palíndromo",
+  "description": "Verifica si un string es palíndromo (igual de izquierda a derecha y viceversa).",
+  "difficulty": "easy",
+  "author": "StringMaster",
+  "likes": 120,
+  "solves": 430,
+  "createdAt": "2024-01-25",
+  "tags": ["strings", "logic"],
+  "testCases": "\"radar\" -> true, \"java\" -> false"
+}

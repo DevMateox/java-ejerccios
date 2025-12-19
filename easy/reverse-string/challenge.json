@@ -1,0 +1,12 @@
+{
+  "id": "reverse-string",
+  "title": "Invertir String",
+  "description": "Crea un método que reciba un String y lo devuelva invertido sin usar StringBuilder.reverse().",
+  "difficulty": "easy",
+  "author": "CodeNinja",
+  "likes": 203,
+  "solves": 654,
+  "createdAt": "2024-01-20",
+  "tags": ["strings", "arrays"],
+  "testCases": "\"Hello\" -> \"olleH\", \"Java\" -> \"avaJ\""
+}
