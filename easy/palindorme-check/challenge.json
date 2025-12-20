@@ -1,5 +1,5 @@
 {
-  "id": "palindrome-check",
+  "id": "8",
   "title": "Palíndromo",
   "description": "Verifica si un string es palíndromo (igual de izquierda a derecha y viceversa).",
   "difficulty": "easy",
