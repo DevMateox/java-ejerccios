@@ -1,5 +1,5 @@
 {
-  "id": "9",
+  "id": "3",
   "title": "Invertir String",
   "description": "Crea un método que reciba un String y lo devuelva invertido sin usar StringBuilder.reverse().",
   "difficulty": "easy",
