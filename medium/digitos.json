@@ -1,0 +1,9 @@
+{
+  "id": "5",
+  "title": "Suma de dígitos",
+  "description": "Dado un número entero positivo, calcula la suma de sus dígitos.",
+  "difficulty": "medium",
+  "author": "MathGuru",
+  "tags": ["math", "loops"],
+  "testCases": "123 -> 6, 4567 -> 22"
+}

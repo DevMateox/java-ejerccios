@@ -4,9 +4,6 @@
   "description": "Suma todos los elementos de un array de enteros.",
   "difficulty": "easy",
   "author": "ArrayWizard",
-  "likes": 95,
-  "solves": 410,
-  "createdAt": "2024-01-30",
   "tags": ["arrays", "loops"],
   "testCases": "[1,2,3,4] -> 10"
 }

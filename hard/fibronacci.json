@@ -1,0 +1,9 @@
+{
+  "id": "6",
+  "title": "Número de Fibonacci en posición n",
+  "description": "Calcula el n-ésimo número de Fibonacci de manera eficiente (sin recursión simple).",
+  "difficulty": "hard",
+  "author": "AlgoMaster",
+  "tags": ["math", "recursion", "dynamic-programming"],
+  "testCases": "5 -> 5, 10 -> 55"
+}

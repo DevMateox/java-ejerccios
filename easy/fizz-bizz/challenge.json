@@ -4,9 +4,6 @@
   "description": "Imprime los números del 1 al 100. Múltiplos de 3 -> Fizz, de 5 -> Buzz, de ambos -> FizzBuzz.",
   "difficulty": "easy",
   "author": "MateoPraga",
-  "likes": 156,
-  "solves": 892,
-  "createdAt": "2024-01-15",
   "tags": ["loops", "conditionals"],
   "testCases": "3 -> Fizz, 5 -> Buzz, 15 -> FizzBuzz"
 }
